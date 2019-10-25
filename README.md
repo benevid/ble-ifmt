@@ -12,5 +12,9 @@ Estes arquivos estão disponíveis na pasta `src`.
 
 > Esse curso foi construído utilizando o material disponível no site do evothings, w3c e outros.
 
-Prof. Benevid Felix
+**Prof. Benevid Felix**
+
+Sistemas de Informação - Campus de Sinop
+
+Universidade do Estado de Mato Grosso
 
