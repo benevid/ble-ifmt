@@ -10,7 +10,9 @@ Este guia apresenta tudo que você precisa para começar a criar aplicativos mó
 
 ## Guia de Iniciante do Evothings Studio
 
+# benevid@gmail.com
 
+# 41 99258-2733 (whats)
 
 O Evothings Studio é uma ferramenta de desenvolvimento para criar aplicativos móveis para a Internet das Coisas (IoT). Ele é baseado em tecnologias da Web e componentes de software de código aberto.
 

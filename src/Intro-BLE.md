@@ -4,11 +4,13 @@
 
 > IFMT Primavera do Leste
 
+
+
+## https://github.com/benevid/ble-ifmt
+
 ## O que é Bluetooth Low Energy?
 
-O Bluetooth Low Energy, BLE, para abreviar, é uma variante do Bluetooth que economiza energia. A principal aplicação do BLE é a transmissão a curta distância de pequenas quantidades de dados (baixa largura de banda). Diferentemente do Bluetooth que está sempre ativado, o BLE permanece no modo de suspensão constantemente, exceto quando a conexão é iniciada.
-
-Isso reflete em um baixo consumo de energia. O BLE consome aproximadamente 100x menos energia que o Bluetooth (dependendo do caso de uso).
+O Bluetooth Low Energy, BLE, para abreviar, é uma variante do Bluetooth que economiza energia. A principal aplicação do BLE é a transmissão a curta distância de pequenas quantidades de dados (baixa largura de banda). Diferentemente do Bluetooth que está sempre ativado, o BLE permanece no modo de suspensão constantemente, exceto quando a conexão é iniciada. Isso reflete em um baixo consumo de energia. O BLE consome aproximadamente 100x menos energia que o Bluetooth (dependendo do caso de uso).
 
 ![img](https://i2.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/06/BLE-Intro.png?w=813&ssl=1)
 
